@@ -4,3 +4,12 @@ What happens when you initialize a repository? Why do you need to do it?
 	Because we need to tell git we need to to version control on that project
 
 	
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+	Staging area is a intemediate area, which tempararily stores the files that wait to be commited.
+
+	The working directory is a folder that contains project files and repository
+
+	Repository is stored in .git directory
+
