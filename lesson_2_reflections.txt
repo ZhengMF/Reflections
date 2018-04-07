@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Will create .git direcotry in the main directory of that project
+	Because we need to tell git we need to to version control on that project
+
+	
