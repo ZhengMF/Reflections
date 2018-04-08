@@ -13,3 +13,6 @@ What value do you think it offers?
 
 	Repository is stored in .git directory
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+	use git diff and git status to make sure all the file is connected to one logical change before you run the commit
