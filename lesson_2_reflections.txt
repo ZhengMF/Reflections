@@ -33,3 +33,13 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	two branch merge into one and update it to the current branch
 	More easy to sort it out
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Git's automatic merging
+		Pros: save time
+		Cons: might merge into the way you didn't want or create some logic error
+
+	Always doing merges manually
+		Pros: Can merge exactly as you want it and more accurate
+		Cons: lots of work
